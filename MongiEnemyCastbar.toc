@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: MongiEnemyCastbar
+## Notes: 
+## Author: Mongidawg
+## SavedVariables:
+## Version: 1.0.1
+
+Table.lua
+MongiEnemyCastbar.lua
+MongiEnemyCastbar.xml
